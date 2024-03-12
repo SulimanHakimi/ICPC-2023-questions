@@ -1,0 +1,12 @@
+Customer1:
+50 3
+20 4
+5 1
+Customer2:
+100 2
+70 2
+10 3
+Customer3:
+Impossible
+Customer4:
+Impossible
